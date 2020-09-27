@@ -29,16 +29,16 @@
 ### ♛ Some pictures from my projects:
 
 Graph:
-<br>
+<br />
 <img align="left" alt="Graph" width="960px" height="540px" src="https://i.imgur.com/5MKIfx1.png" />
 
 MandelbrotSwing:
-<br>
+<br />
 <img align="left" alt="MS" width="960px" height="540px" src="https://i.imgur.com/64LMSRZ.png" />
 
 GeomVectorLib:
-<br>
-<iframe class="imgur-embed" width="100%" height="605" frameborder="0" src="https://i.imgur.com/fa1zaZb.gifv#embed"></iframe>
+<br />
+[Imgur](https://i.imgur.com/fa1zaZb.gifv)
 
 <!--
 **TheViperShow/TheViperShow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
