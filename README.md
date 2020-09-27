@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco - aka TheViperShow 👋
 
-## I am one of the best developers, here my active projects:
+## I am a highly skilled developer, here are my active projects:
 
 - 💬 SafeChat | Spigot Plugin (PREMIUM)
 - 🌠 AussieBedwars | Spigot Plugin (PREMIUM)
@@ -24,7 +24,6 @@
 
 - [Minecraft | Plugin dynamic world loading algorithm](https://www.youtube.com/watch?v=SLXon2J2p3I)
 - [Making a weird graph in C99](https://www.youtube.com/watch?v=m7isKy2Bg0w&t=314s)
-
 
 
 <!--
