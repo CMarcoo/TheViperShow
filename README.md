@@ -28,7 +28,7 @@
 
 ### ♛ Some pictures from my projects:
 
-<img align="left" alt="Graph" width="300px" height="100px" src="https://i.imgur.com/5MKIfx1.png" />
+<img align="left" alt="Graph" width="960px" height="540px" src="https://i.imgur.com/5MKIfx1.png" />
 <!--
 **TheViperShow/TheViperShow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
