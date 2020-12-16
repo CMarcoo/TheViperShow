@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco - aka TheViperShow 👋
 
-## I am an learning developer, here are my active projects:
+## I am a learning developer, here are my active projects:
 
 - 💬 SafeChat | Spigot Plugin (PREMIUM)
 - 🌠 AussieBedwars | Spigot Plugin (PREMIUM)
