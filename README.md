@@ -1,7 +1,7 @@
 ### Hi there, I'm Marco - aka TheViperShow 👋
 
-The main languages which interest me are the ones which run fastest, yeah of course I'm talking about C.
-But I also like learning about new topics, such as Web Development and Databases.
+The main languages I prefer are C and Java.
+But I also like learning about new technologies, such as Web Development and Databases.
 
 ### ♛ Some pictures from my projects:
 
